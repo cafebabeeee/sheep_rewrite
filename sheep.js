@@ -1,0 +1,2 @@
+hostname=cat-match.easygame2021.com
+^https:\/\/cat-match\.easygame2021\.com\/sheep\/v1\/game\/map_info_new?map_id=90017 url 302 https://cat-match.easygame2021.com/sheep/v1/game/map_info_new?map_id=80001
